@@ -38,5 +38,4 @@ Olá! Este é um trabalho acadêmico sobre **GraphQL vs. REST**! Este seminário
 
 - Pedro Luiz Van-Lume de Souza 
  
-- Pedro Luiz Van-Lume de Souza - 01648619
 
